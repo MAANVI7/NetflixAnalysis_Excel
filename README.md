@@ -25,5 +25,7 @@ Slicer: Type
 Releases per year:  In year 2017 and 2018 maximum movies were released. In year 2019 and 2018 maximum TV Shows were released.
 In year 2017 and 2018 maximum movies were released Maximum for TV-MA for both movies and TV shows.
 
-
+For further communication :
+Contact- https://www.linkedin.com/in/maanvi-bhatnagar-25b108178/
+Email-maanvib93@gmail.com
 
