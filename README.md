@@ -1,4 +1,4 @@
-# NetflixAnalysis_Excel
+# NetflixUserAnalysis_ExcelDashboard
 Objectives 
 1. Analyse Movies and TV Shows on Netflix.
  2. Distribution by type. 
